@@ -299,9 +299,10 @@ span {
   padding-left: 15px;
   font-size: 1.3rem;
 }
-.most-viewed div {
+.most-viewed .most-viewed-div-main {
   display: flex;
   justify-content: space-evenly;
+  margin: 0px 30px;
 }
 .div-content {
   display: flex;
@@ -323,7 +324,8 @@ span {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
+  gap: 5px;
 }
 .rating-img {
   justify-self: flex-start !important;
