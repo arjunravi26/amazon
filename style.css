@@ -5,7 +5,7 @@
   border: border-box;
 }
 body {
-  background-color: #cfe0e9;
+  background-color: #e7e7e7;
 }
 .navbar {
   height: 60px;
@@ -146,6 +146,7 @@ span {
   height: 700px;
   background-size: cover;
   padding: 10px;
+  margin: 0 10px;
 }
 /* @keyframes changeBackground {
   0% ,33%{ background-image: url("images/bg-img1.jpg"); }
@@ -163,6 +164,8 @@ span {
   font-size: 0.85rem;
   top: 200px;
   position: relative;
+  width: 97%;
+  left: 22px;
 }
 
 .hero-msg a {
