@@ -289,6 +289,7 @@ span {
   background-size: contain;
   background-repeat: no-repeat;
 }
+/* style for most viewed item */
 .most-viewed {
   margin-top: 3640px;
   background-color: white;
@@ -452,6 +453,7 @@ ul {
   font-size: 0.7rem;
   text-align: center;
 }
+/* style for other services offered by amazon session */
 .other-services {
   display: flex;
   justify-content: center;
@@ -506,6 +508,7 @@ td {
 /* .pages {
   padding-top: 20px;
 } */
+/* style for copyright session */
 .copyright {
   padding-top: 5px;
 }
