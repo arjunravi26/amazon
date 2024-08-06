@@ -229,12 +229,14 @@ span {
   width: 140px;
   padding-left: 10px;
 }
+/* image name */
 .item p {
   color: #232525;
   font-size: 0.75rem;
   display: inline;
   margin-top: 0px;
 }
+/* link for a box */
 .box-content a {
   text-decoration: none;
   color: #007185;
@@ -250,6 +252,7 @@ span {
   padding-bottom: 15px;
   font-size: 20px;
 }
+/* style for small images in the shop session(without grid container) */
 .small-box {
   margin: 20px;
   width: 100%;
