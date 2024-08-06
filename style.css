@@ -7,6 +7,7 @@
 body {
   background-color: #e7e7e7;
 }
+/* Nav */
 .navbar {
   height: 60px;
   background-color: #0f1111;
@@ -138,7 +139,7 @@ span {
   font-size: 0.9rem;
   font-weight: 700;
 }
-
+/* Body starts */
 /*Hero Session*/
 .hero-section {
   background-image: url("images/bg-img1.jpg");
@@ -154,6 +155,7 @@ span {
   66% ,100% { background-image: url('images/bg-img3.jpg'); }
   100% { background-image: url('images/bg-img4.jpg'); }
 } */
+/* message in the image */
 .hero-msg {
   background-color: white;
   color: black;
@@ -181,6 +183,7 @@ span {
   justify-content: space-evenly;
   /* background-color: white; */
 }
+/* style for single box */
 .box {
   background-color: white;
   height: 400px;
@@ -203,6 +206,7 @@ span {
 .box-content {
   color: black;
 }
+/* created 4 item grid */
 .box-grid {
   display: grid;
   grid-template-columns: 120px 120px;
